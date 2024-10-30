@@ -1,0 +1,1 @@
+Canvas creations Art Gallery website is a website that simplifies the process of purchasing art pieces by removing the need to physically be there. Artists can upload their pieces online and customers buy them remotely
